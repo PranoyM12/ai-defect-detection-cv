@@ -92,3 +92,12 @@ defect-detection-cv/
 * Deep learning (CNN / U-Net)
 * Real-time defect detection
 * Deployment as API or web app
+
+
+## ⚠️ Note
+
+The trained model file (`.pkl`) is not included due to size limitations.
+
+To use the project:
+1. Generate dataset using the provided pipeline
+2. Train the model using the training script
