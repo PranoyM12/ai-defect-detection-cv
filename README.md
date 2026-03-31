@@ -1,5 +1,14 @@
 # AI-Based Defect Detection System (Computer Vision + Machine Learning)
 
+## 🔥 Demo Results
+
+### Crack Detection
+![Crack Detection](sample_outputs/output1.jpg)
+
+### Clean Surface (No False Positive)
+![Clean Surface](sample_outputs/output2.jpg)
+
+
 ## 🔍 Overview
 
 This project implements a hybrid **Computer Vision + Machine Learning pipeline** to detect cracks and surface defects in images.
