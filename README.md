@@ -17,6 +17,15 @@ It combines classical image processing with feature-engineered ML models to achi
 
 ---
 
+## 🛠️ Tech Stack
+
+- Python
+- OpenCV
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+
 ## 🚨 Problem Statement
 
 Manual defect inspection is time-consuming and error-prone. 
