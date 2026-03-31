@@ -17,6 +17,11 @@ It combines classical image processing with feature-engineered ML models to achi
 
 ---
 
+## 🚨 Problem Statement
+
+Manual defect inspection is time-consuming and error-prone. 
+This project automates crack detection using AI to improve efficiency in industrial inspection.
+
 ## ⚙️ Approach
 
 ### 1. Computer Vision Pipeline
